@@ -1,0 +1,4 @@
+Member inner classes are inherited to subclasses of outer class. True OR False?
+
+False. Member inner classes are not inherited to subclasses of outer class.
+Only methods and fields are inherited to subclass.

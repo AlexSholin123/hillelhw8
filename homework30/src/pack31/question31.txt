@@ -1,0 +1,2 @@
+Local inner classes can not be declared as abstract. True OR False?
+False. Local inner classes can be declared as abstract.
